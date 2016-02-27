@@ -1,0 +1,14 @@
+layout_spectrum: 0.3650928
+color:
+  saturation: 0.4322432
+  brandStrength: 0.2150084
+  lightness: 0.01274368
+  rhythmicContrast: 0.4353276
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.4392917
+name: Storifilm
