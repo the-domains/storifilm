@@ -4,15 +4,8 @@
         <description><![CDATA[Stori Film]]></description>
         <link>http://storifilm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 21:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 21:18:19 GMT</lastBuildDate>
         <atom:link href="http://storifilm.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Teste ]]></title>
-            <description><![CDATA[<p>Teste film 02</p>]]></description>
-            <link>http://storifilm.com/teste/index.html</link>
-            <guid isPermaLink="false">d70762f0-8c4f-4dfb-9147-38de26dd89fd</guid>
-            <pubDate>Tue, 31 May 2016 19:11:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0827b9ea-c090-4577-943e-67cbafa6480a.jpg">]]></description>
