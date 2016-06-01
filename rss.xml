@@ -4,28 +4,35 @@
         <description><![CDATA[Stori Film]]></description>
         <link>http://storifilm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 18:49:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 18:50:11 GMT</lastBuildDate>
         <atom:link href="http://storifilm.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Stori Film]]></title>
-            <description><![CDATA[<article><h1>Stori Film</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e0315777188f78053888e588dd405de289ba504.jpg"></article>]]></description>
-            <link>http://storifilm.com/index.html</link>
-            <guid isPermaLink="false">86921885-612d-42c5-921f-b6f395944352</guid>
-            <pubDate>Wed, 01 Jun 2016 18:49:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0827b9ea-c090-4577-943e-67cbafa6480a.jpg">]]></description>
-            <link>http://storifilm.com/3167c6ff-8e1a-4db9-925e-f6eb58763e76/index.html</link>
-            <guid isPermaLink="false">3167c6ff-8e1a-4db9-925e-f6eb58763e76</guid>
-            <pubDate>Tue, 31 May 2016 19:04:43 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Cesbe 70 anos]]></title>
             <description><![CDATA[<article><h1>Cesbe 70 anos</h1><p>Titulo Cesbe 70 anos Cliente Cesbe Produtora Stori Film Agencia Manalais Direção Rodrigo Stori Fotografia Rodrigo Stori</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65fe1cd2168eb560b9409dd96088448f9920d030.jpg"></article>]]></description>
             <link>http://vimeo.com/163570116</link>
             <guid isPermaLink="false">74c51e1e-b351-45d3-a37c-ef82ec6d2338</guid>
-            <pubDate>Wed, 01 Jun 2016 17:53:38 GMT</pubDate>
+            <pubDate>Wed, 01 Jun 2016 18:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0678969a-b837-4315-8a65-8a978970823d.jpg">]]></description>
+            <link>http://storifilm.com/cd762328-bbd1-45f3-9772-b0ccbcf8c05e/index.html</link>
+            <guid isPermaLink="false">cd762328-bbd1-45f3-9772-b0ccbcf8c05e</guid>
+            <pubDate>Wed, 01 Jun 2016 18:49:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ Outono]]></title>
+            <description><![CDATA[<article><h1> Outono</h1><p>Foto empreendimento Wizz Stuhlberger </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cfaeeb81582f18f4700ea2338bc992bb8ba8e0b6.jpg"></article>]]></description>
+            <link>http://storifilm.com/3167c6ff-8e1a-4db9-925e-f6eb58763e76/index.html</link>
+            <guid isPermaLink="false">3167c6ff-8e1a-4db9-925e-f6eb58763e76</guid>
+            <pubDate>Wed, 01 Jun 2016 18:49:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stori Film]]></title>
+            <description><![CDATA[<article><h1>Stori Film</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e0315777188f78053888e588dd405de289ba504.jpg"></article>]]></description>
+            <link>http://storifilm.com/index.html</link>
+            <guid isPermaLink="false">86921885-612d-42c5-921f-b6f395944352</guid>
+            <pubDate>Wed, 01 Jun 2016 18:49:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +40,6 @@
             <link>http://storifilm.com/c7480190-f47a-4831-82b3-23cc71034490/index.html</link>
             <guid isPermaLink="false">c7480190-f47a-4831-82b3-23cc71034490</guid>
             <pubDate>Tue, 31 May 2016 21:48:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0678969a-b837-4315-8a65-8a978970823d.jpg">]]></description>
-            <link>http://storifilm.com/cd762328-bbd1-45f3-9772-b0ccbcf8c05e/index.html</link>
-            <guid isPermaLink="false">cd762328-bbd1-45f3-9772-b0ccbcf8c05e</guid>
-            <pubDate>Tue, 31 May 2016 21:09:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
