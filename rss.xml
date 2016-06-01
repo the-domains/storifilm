@@ -4,7 +4,7 @@
         <description><![CDATA[Stori Film]]></description>
         <link>http://storifilm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 20:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 20:06:13 GMT</lastBuildDate>
         <atom:link href="http://storifilm.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ Outono ]]></title>
@@ -35,6 +35,27 @@
             <pubDate>Wed, 01 Jun 2016 19:32:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mandala - AG7]]></title>
+            <description><![CDATA[<article><h1>Mandala - AG7</h1><p>Direção de Cena, Direção de Fotografia de Rodrigo Elias Stori; Produção digital: Digital Light.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e19d925e01524162a829d60d6bd44150811144b.jpg"></article>]]></description>
+            <link>http://vimeo.com/80988083</link>
+            <guid isPermaLink="false">218fd257-d370-4750-9133-af124c0ddb66</guid>
+            <pubDate>Wed, 01 Jun 2016 20:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VT 30" Selfie Cabral com perspectivas - Stuhlberger]]></title>
+            <description><![CDATA[<article><h1>VT 30" Selfie Cabral com perspectivas - Stuhlberger</h1><p>Cliente: Stuhlberger / Monarca / Tecnisa. Produtora: Stori Film; Agência: Concêntrica; Direção de Cena e Direção de...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fcccea4ddbd6ce6bb0e41aee4c239da4d3abc42.jpg"></article>]]></description>
+            <link>http://vimeo.com/110430984</link>
+            <guid isPermaLink="false">6f4e1a24-f888-49af-ad70-67050c6106a4</guid>
+            <pubDate>Wed, 01 Jun 2016 20:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[100 Anos de Tradição - Padaria América]]></title>
+            <description><![CDATA[<article><h1>100 Anos de Tradição - Padaria América</h1><p>Produtora: Stori Films; Agência: Direto Roteiro: Lúcia Helena Martins. Direção de Cena e Direção de Fotografia: Rodrigo...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b49933669b9d6558b83d5b5127805c0c59fb6fe.jpg"></article>]]></description>
+            <link>http://vimeo.com/110500706</link>
+            <guid isPermaLink="false">1ef50ed4-4f2b-412f-b94a-c07ab8fb9d22</guid>
+            <pubDate>Wed, 01 Jun 2016 20:05:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sales Operation - Exxon Mobil]]></title>
             <description><![CDATA[<article><h1>Sales Operation - Exxon Mobil</h1><p>Produtora: Stori Film; Agência: Lustig; Direção de Cena: Rodrigo Stori; Direção de Fotografia: Rodrigo Stori.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e66ce37629ee372114ee7451280f62f65e788c5b.jpg"></article>]]></description>
             <link>http://vimeo.com/66010832</link>
@@ -54,13 +75,6 @@
             <link>http://vimeo.com/166087139</link>
             <guid isPermaLink="false">520e697b-1144-4fbc-aa3d-8b885c152f7e</guid>
             <pubDate>Wed, 01 Jun 2016 20:05:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cultural diversity - Infrastructure Odebrecht]]></title>
-            <description><![CDATA[<article><h1>Cultural diversity - Infrastructure Odebrecht</h1><p>Scene, photography and editing by Rodrigo Stori</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb153675acb0017b22ea64b0c3454e4063d92776.jpg"></article>]]></description>
-            <link>http://vimeo.com/121060323</link>
-            <guid isPermaLink="false">74f8db03-4efc-43b6-8e2c-c9d7921c2a3e</guid>
-            <pubDate>Wed, 01 Jun 2016 20:05:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
