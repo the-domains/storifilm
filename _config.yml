@@ -1,7 +1,7 @@
 name: 'Stori Film&nbsp;'
 favicon: null
-layout_spectrum: 0.25697
-typography_spectrum: 0.30784
+layout_spectrum: 0.056257176445797086
+typography_spectrum: 0.31381557416170835
 title: Stori Film
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#14426b'
-    - '#2d6392'
-    - '#d6d6d6'
     - '#000000'
-    - '#9ba2a7'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.05044670286588371
+  lightness: 0.6197234753053635
+  saturation: 0.5737607730552554
+  rhythmicContrast: 0.8059599900152534
 purpose: []
