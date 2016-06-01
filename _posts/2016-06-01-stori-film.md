@@ -11,10 +11,10 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://storifilm.com/index.html'
 title: Stori Film
-datePublished: '2016-06-01T18:49:29.457Z'
-dateModified: '2016-06-01T18:49:29.333Z'
+datePublished: '2016-06-01T18:49:40.358Z'
+dateModified: '2016-06-01T18:49:39.843Z'
 sourcePath: _posts/2016-06-01-stori-film.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
