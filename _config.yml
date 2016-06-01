@@ -1,20 +1,4 @@
-name: Stori Film
-favicon: null
-layout_spectrum: 0.24899
 typography_spectrum: 0.31381557416170835
-title: Stori Film
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,21 @@ color:
   lightness: 0.6197234753053635
   saturation: 0.5737607730552554
   rhythmicContrast: 0.8059599900152534
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.056257176445797086
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3880231-73ec-4558-8d47-58fe71e088d1.png'
+name: 'Stori Film&nbsp;'
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Stori Film
 purpose: []
