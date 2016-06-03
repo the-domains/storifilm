@@ -8,7 +8,9 @@ publisher:
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords: []
-description: 'This is "HSE Caminhões" by rodrigostori on Vimeo, the home for high quality videos and the people who love them.'
+description: >-
+  This is "HSE Caminhões" by rodrigostori on Vimeo, the home for high quality
+  videos and the people who love them.
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/166087139'
     type: ios
@@ -38,10 +40,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'http://vimeo.com/166087139'
 title: HSE Caminhões
-datePublished: '2016-06-01T20:05:22.119Z'
-dateModified: '2016-06-01T19:49:42.418Z'
-starred: false
+datePublished: '2016-06-03T22:55:15.911Z'
+dateModified: '2016-06-03T22:55:15.383Z'
 sourcePath: _posts/2016-06-01-hse-caminhoes.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
