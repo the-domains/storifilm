@@ -40,10 +40,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'http://vimeo.com/166087139'
 title: HSE Caminhões
-datePublished: '2016-06-03T22:55:15.911Z'
-dateModified: '2016-06-03T22:55:15.383Z'
+datePublished: '2016-06-03T22:55:20.258Z'
+dateModified: '2016-06-03T22:55:19.896Z'
 sourcePath: _posts/2016-06-01-hse-caminhoes.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
