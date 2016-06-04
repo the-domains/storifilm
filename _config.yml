@@ -1,6 +1,21 @@
-typography_spectrum: 0.06754
-content_rating:
-  adult: false
+name: 'Stori Film&nbsp;'
+favicon: null
+layout_spectrum: 0.49531
+typography_spectrum: 0.12945
+title: Stori Film
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3880231-73ec-4558-8d47-58fe71e088d1.png'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -12,21 +27,4 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.49531
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3880231-73ec-4558-8d47-58fe71e088d1.png'
-name: Stori Film
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: 'Stori Film - vídeo, drone e foto'
 purpose: []
